@@ -1,4 +1,4 @@
 # gitcommands
 practice git commands
 <br>
-author - shreya shetty 
+author - shreya G shetty 
